@@ -6,12 +6,12 @@ inicio
 Escreva ("Informe o valor em reais que voce tem: ")
 Leia (Rea)
 
-Escreva ("Informe a cotaçao atual do dolar: ")
+Escreva ("Informe a cotaÃ§ao atual do dolar: ")
 Leia (Dol)
 
 Din <- Rea / Dol
 
-Escreva ("O valor de R$", Rea, " na cotaçao atual do dolar e de US$", Din)
+Escreva ("O valor de R$", Rea, " na cotaÃ§ao atual do dolar e de US$", Din)
 
 
 
