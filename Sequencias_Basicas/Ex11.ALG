@@ -13,6 +13,6 @@ inicio
       
       Delta <- (B * B) - 4 * A * C
       
-      Escreva ("O valor de delta é ", Delta:5:2)
+      Escreva ("O valor de delta Ã© ", Delta:5:2)
 
 fimalgoritmo
