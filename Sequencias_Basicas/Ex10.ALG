@@ -13,6 +13,6 @@ inicio
       Escreval ("A area a ser pintada e de ", Area, " metros quadrados")
       
       Latas <- Area / 2
-      Escreva ("A quantidade de latas de tinta usada, sabendo que cada lata da para pintar 2 metros quadrados é de ", Latas, " Latas")
+      Escreva ("A quantidade de latas de tinta usada, sabendo que cada lata da para pintar 2 metros quadrados Ã© de ", Latas, " Latas")
 
 fimalgoritmo
