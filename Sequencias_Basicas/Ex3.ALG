@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Nome_Funcionario"
 var
 Nome: Caractere
 Salario: Real
@@ -12,3 +12,4 @@ Leia (Salario)
 Escreva ("O(a) funcionario(a) ", Nome, " tem um salario de R$", Salario, " por mes")
 
 fimalgoritmo
+
