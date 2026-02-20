@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Dolar"
 
 var
 Rea, Din, Dol: Real
@@ -16,3 +16,4 @@ Escreva ("O valor de R$", Rea, " na cotaçao atual do dolar e de US$", Din)
 
 
 fimalgoritmo
+
