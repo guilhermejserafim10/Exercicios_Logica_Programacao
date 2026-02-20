@@ -1,4 +1,4 @@
-Algoritmo "MeuNome"
+Algoritmo "Nome"
 
 Var
 nome: caractere
@@ -9,3 +9,4 @@ Leia(nome)
 Escreva ("Ola ", nome, ", e um prazer te conhecer!")
 
 Fimalgoritmo
+
