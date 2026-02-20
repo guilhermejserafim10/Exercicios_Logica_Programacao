@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Aluguel_Carro"
 var
    KM, Dias, Preco: Real
 inicio
@@ -13,3 +13,4 @@ inicio
       Escreva ("O valor do aluguel do carro foi de R$", Preco:5:2)
 
 fimalgoritmo
+
