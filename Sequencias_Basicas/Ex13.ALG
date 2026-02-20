@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Aumento_Salario"
 var
    Sal, Aum, Sal_Novo: Real
 inicio
@@ -14,3 +14,4 @@ inicio
       Escreva ("Seu salario novo e de R$", Sal_Novo)
 
 fimalgoritmo
+
