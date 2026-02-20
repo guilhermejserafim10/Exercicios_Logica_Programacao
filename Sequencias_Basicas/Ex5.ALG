@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Media"
 var
 Nota1, Nota2, Media: Real
 Aluno: Caractere
@@ -17,3 +17,4 @@ Media <- (Nota1 + Nota2) / 2
 Escreva ("A media do aluno ", Aluno, " com as notas ", Nota1, " e ", Nota2, " e igual a ", Media)
 
 fimalgoritmo
+
