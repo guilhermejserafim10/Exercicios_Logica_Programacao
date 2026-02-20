@@ -7,7 +7,7 @@ inicio
       
       Desc <- (Preco * 5) / 100
       
-      Escreval ("O desconto é de ", Desc, "R$")
+      Escreval ("O desconto Ã© de ", Desc, "R$")
       
       Valor_Final <- Preco - Desc
       
