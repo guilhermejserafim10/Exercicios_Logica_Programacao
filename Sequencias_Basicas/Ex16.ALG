@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Vida_Fumante"
 var
    QTD, Anos: Inteiro
    Min, HR, Dias, Vida: Real
@@ -20,3 +20,4 @@ inicio
       
       Escreva ("Voce perdeu ", Vida:5:0, " Dias da sua vida")
 fimalgoritmo
+
