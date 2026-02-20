@@ -1,6 +1,4 @@
-algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+algoritmo "Antecessor_Sucessor"
 var
 Num, Ant, Suc: Real
 inicio
@@ -18,3 +16,4 @@ Escreva ("O sucessor de ", Num, " e ", Suc)
 
 
 fimalgoritmo
+
