@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Delta"
 var
    A, B, C, Delta: Real
 inicio
@@ -16,3 +16,4 @@ inicio
       Escreva ("O valor de delta é ", Delta:5:2)
 
 fimalgoritmo
+
