@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Pintar_Parede"
 var
    Alt, Larg, Area, Latas: Real
 inicio
@@ -16,3 +16,4 @@ inicio
       Escreva ("A quantidade de latas de tinta usada, sabendo que cada lata da para pintar 2 metros quadrados é de ", Latas, " Latas")
 
 fimalgoritmo
+
