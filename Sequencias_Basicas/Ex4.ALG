@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Soma"
 var
 N1, N2, Soma: Inteiro
 inicio
@@ -13,3 +13,4 @@ Leia (N2)
  Escreva ("A soma entre os dois numeros e igual a ", Soma)
 
 fimalgoritmo
+
