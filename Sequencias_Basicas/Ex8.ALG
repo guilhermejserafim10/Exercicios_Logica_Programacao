@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Distancia"
 var
 M, Km, Hm, Dam, Dm, Cm, Mm: Real
 inicio
@@ -32,3 +32,4 @@ Escreval (Cm, "Cm")
 Escreva (Mm, "Mm")
 
 fimalgoritmo
+
