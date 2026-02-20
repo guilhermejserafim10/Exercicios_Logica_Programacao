@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Radar"
 var
    Vel: Inteiro
    Val, Vel_Acima: Real
@@ -19,3 +19,4 @@ inicio
            Escreval ("O valor da multa foi de R$", Val:5:2)
            Escreval("------------------------------------------")
 fimalgoritmo
+
