@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Salario_Funcionario"
 var
    Dias: Inteiro
    Sal: Real
@@ -18,3 +18,4 @@ inicio
       
       Escreva ("O salario do funcionario ", Nome, " e de R$", Sal)
 fimalgoritmo
+
