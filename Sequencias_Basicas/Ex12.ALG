@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Desconto"
 var
    Preco, Desc, Valor_Final: Real
 inicio
@@ -16,3 +16,4 @@ inicio
       
 
 fimalgoritmo
+
