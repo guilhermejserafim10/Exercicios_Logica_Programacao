@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Dobro_Terca"
 var
 Num, Dob, Ter: Real
 inicio
@@ -14,3 +14,4 @@ Escreval ("O dobro do numero real ", Num, " e ", Dob)
 Escreva ("A terca parte do numero real ", Num, " e ", Ter)
 
 fimalgoritmo
+
